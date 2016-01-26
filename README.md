@@ -21,7 +21,7 @@
 - AlloyTeam: http://www.alloyteam.com/
 - ISUX: http://isux.tencent.com/
 
-##### 奇虎 360 (Qihoo 360)
+##### 奇虎 360 ( Qihoo 360 )
 
 - 奇舞团: http://www.75team.com/
 
