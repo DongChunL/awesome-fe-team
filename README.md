@@ -1,6 +1,6 @@
 # Awesome Front-end Teams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-IT 公司前端团队合集
+国内 IT 公司前端团队
 
 ##### 百度 ( Baidu )
 
@@ -10,6 +10,7 @@ IT 公司前端团队合集
 ##### 阿里巴巴 ( Alibaba )
 
 - FED (淘宝前端): http://taobaofed.org/
+- TaobaoUED (淘宝): http://ued.taobao.org/
 - AMFE (淘宝手机前端): https://github.com/amfe/article
 - Alinode: http://alinode.aliyun.com/blog
 - TmallFE (天猫前端): https://tmallfe.github.io/
@@ -37,6 +38,10 @@ IT 公司前端团队合集
 
 - UED: http://ued.qunar.com/
 - 去哪儿酒店UED移动前端: http://ued.qunar.com/mobile/blog/
+
+##### 大搜车
+
+- 大搜车前端团队：http://f2e.souche.com/
 
 ##### 豆瓣 ( Douban )
 
