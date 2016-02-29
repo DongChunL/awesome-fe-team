@@ -21,6 +21,7 @@
 - IMWeb: http://imweb.io/
 - AlloyTeam: http://www.alloyteam.com/
 - ISUX: http://isux.tencent.com/
+- TID: http://tid.tenpay.com/
 
 ##### 奇虎 360 ( Qihoo 360 )
 
