@@ -1,8 +1,6 @@
 # Awesome Front-end Teams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-国内知名 IT 公司前端团队
-
-(排名不分先后)
+国内知名 IT 公司前端团队 (排名不分先后)
 
 ##### 百度 ( Baidu )
 
@@ -44,7 +42,7 @@
 ##### 去哪儿 ( Qunar )
 
 - UED: http://ued.qunar.com/
-- 去哪儿酒店UED移动前端: http://ued.qunar.com/mobile/blog/
+- MFE: http://ued.qunar.com/mobile/blog/
 
 ##### 携程 ( Ctrip )
 
