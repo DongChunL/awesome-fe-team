@@ -48,9 +48,9 @@
 
 - 携程设计委员会: http://ued.ctrip.com/
 
-##### 大搜车
+##### 大搜车（Souche）
 
-- 大搜车前端团队：http://f2e.souche.com/
+- 大搜车前端团队：http://f2e.souche.com/blog/
 
 ##### 豆瓣 ( Douban )
 
