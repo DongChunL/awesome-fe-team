@@ -46,6 +46,10 @@
 - UED: http://ued.qunar.com/
 - 去哪儿酒店UED移动前端: http://ued.qunar.com/mobile/blog/
 
+##### 携程 ( Ctrip )
+
+- 携程设计委员会: http://ued.ctrip.com/
+
 ##### 大搜车
 
 - 大搜车前端团队：http://f2e.souche.com/
