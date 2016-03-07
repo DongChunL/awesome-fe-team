@@ -1,6 +1,8 @@
 # Awesome Front-end Teams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-国内 IT 公司前端团队
+国内知名 IT 公司前端团队
+
+(排名不分先后)
 
 ##### 百度 ( Baidu )
 
@@ -30,6 +32,10 @@
 ##### 新浪 ( Sina )
 
 - 新浪 UED: http://ued.sina.com.cn/
+
+##### 京东 ( JD )
+
+- 凹凸实验室: http://aotu.io/ ( [GitHub](https://github.com/o2team/) )
 
 ##### 美团 ( Meituan )
 
