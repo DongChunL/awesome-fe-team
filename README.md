@@ -9,8 +9,8 @@
 
 ##### 阿里巴巴 ( Alibaba )
 
-- FED (淘宝前端): http://taobaofed.org/
-- TaobaoUED (淘宝): http://ued.taobao.org/
+- FED (淘宝前端): http://taobaofed.org/ ( [GitHub](https://github.com/taobaofed) )
+- TaobaoUED (淘宝): http://ued.taobao.org/ 
 - AMFE (淘宝手机前端): https://github.com/amfe/article
 - Alinode: http://alinode.aliyun.com/blog
 - TmallFE (天猫前端): https://tmallfe.github.io/
@@ -18,14 +18,14 @@
 
 ##### 腾讯 ( Tencent )
 
-- IMWeb: http://imweb.io/
-- AlloyTeam: http://www.alloyteam.com/
+- IMWeb: http://imweb.io/ ( [GitHub](https://github.com/imweb/) )
+- AlloyTeam: http://www.alloyteam.com/ ( [GitHub](https://github.com/alloyteam) )
 - ISUX: http://isux.tencent.com/
 - TID: http://tid.tenpay.com/
 
 ##### 奇虎 360 ( Qihoo 360 )
 
-- 奇舞团: http://www.75team.com/
+- 奇舞团: http://www.75team.com/ ( [GitHub](https://github.com/75team/) )
 
 ##### 新浪 ( Sina )
 
